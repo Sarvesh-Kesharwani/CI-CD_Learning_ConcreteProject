@@ -10,4 +10,9 @@ Git, Maven, Jenkins...
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
+## Youtube + Hashnode Explanation Links 
+# https://youtu.be/w0OVqNvNS30
+# https://sarvesh42.hashnode.dev/cicd-lab-setup-concrete-example-guide
+
+
 
